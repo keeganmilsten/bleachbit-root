@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Bleachbit (Root)
+Comment=Run Bleachbit with root priviliges
+Icon=bleachbit
+Exec=gksudo bleachbit
+NoDisplay=false
+Categories=Core;GNOME;GTK;System;System-Tools;Utilities;
+Keywords=root;administrator;bleachbit;
+MimeType=inode/directory;application/x-gnome-saved-search;
+StartupNotify=true
+Terminal=true
