@@ -10,4 +10,4 @@ Categories=Core;GNOME;GTK;System;System-Tools;Utilities;
 Keywords=root;administrator;bleachbit;
 MimeType=inode/directory;application/x-gnome-saved-search;
 StartupNotify=true
-Terminal=true
+Terminal=false
